@@ -1,4 +1,4 @@
-package com.mia.apiJava;
+package com.mia.apiJava.config;
 
 import org.springframework.context.annotation.Bean;
 
