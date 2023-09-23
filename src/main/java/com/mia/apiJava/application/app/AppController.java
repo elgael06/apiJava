@@ -1,4 +1,4 @@
-package com.mia.apiJava.controllers.App;
+package com.mia.apiJava.application.app;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
